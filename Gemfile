@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem "statesman", "1.2.0"
+gem "statesman", "13.1.0"
